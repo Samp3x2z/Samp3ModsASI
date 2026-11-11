@@ -1,4 +1,4 @@
-// dlssg_sm86_counter.asi
+// counter_sm86.asi
 // Reads SM86 frame timing, calculates the generated FPS value, and publishes it
 // for FPSCounter's CET script. Build as a separate x64 ASI beside the settings ASI.
 #include <windows.h>
