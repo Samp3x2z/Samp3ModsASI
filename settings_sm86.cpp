@@ -1,4 +1,4 @@
-// dlssg_sm86_settings.asi
+// settings_sm86.asi
 // Keeps the SM86 INI synchronized with the CET helper mod.
 // Build as a separate x64 ASI and place beside dlssg_sm86_counter.asi.
 #include <windows.h>
